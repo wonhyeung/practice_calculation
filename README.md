@@ -8,8 +8,6 @@
 
 2. ConstraintLayout 사용
 
-3. LayoutInflater 사용
+3. runOnUiTherad 사용
 
-4. runOnUiTherad 사용
-
-5. Room 사용 
+4. Room 사용 
