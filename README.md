@@ -6,7 +6,7 @@
 
 1. TableLayout 사용
 
-2. ConstaintLayout 사용
+2. ConstraintLayout 사용
 
 3. LayoutInflater 사용
 
